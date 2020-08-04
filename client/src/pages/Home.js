@@ -1,12 +1,11 @@
 import React, { Component } from 'react'
-import TopMenu from '../components/TopMenu/TopMenu'
+import TopBar from '../components/TopBar/TopBar'
 
 class Home extends Component{
     render() {
         return (
             <div className="home">
-                <TopMenu />
-                <h1>I am Home Page</h1>
+                <TopBar />
             </div>
         );
     }

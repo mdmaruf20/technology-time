@@ -1,0 +1,23 @@
+.top-bar{
+    background: #212121;
+    color: #fff;
+    padding: 8px 0; 
+}
+
+.top-menu ul {
+    list-style: none;
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+}
+  .top-menu ul li {
+    float: left;
+  }
+  .top-menu ul li a {
+    color: #fff;
+    font-size: 14px;
+    margin-right: 10px;
+  }
+.top-mneu ul li a:hover{
+    text-decoration: none!important;
+}
